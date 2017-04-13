@@ -11,7 +11,7 @@ body  {
 	font-family: 'Arvo', serif;
 	font-size: 14px;
 	background: url(images/siteBackground.png) repeat;
-	margin: 0; 
+	margin: 0;
 	padding: 0;
 	color: #707070;
 }
@@ -19,17 +19,17 @@ h2, h3 {
 	color: #5ca3cd;
 	padding:10px 0 20px 0;
 }
-#container { 
+#container {
 	width: 960px;
 	margin: 0 auto;
-} 
-#header { 
+}
+#header {
 }
 /* Padding for main title */
 #header h1 {
 	float:left;
 	padding:30px 0 0 1px;
-} 
+}
 /* Main Title */
 #header h1 a {
 	color: #333333;
@@ -89,10 +89,11 @@ h2, h3 {
 	padding:0 35px;
 }
 .maincontent {
+	text-align: justify;
 	float:left;
 	width:700px;
 	padding:10px 35px;
-} 
+}
 .links {
 	padding:10px 35px;
 	margin-left:200px;
@@ -115,10 +116,10 @@ h2, h3 {
 	float:left;
 	padding:0 20px 10px 0;
 }
-#footer { 
+#footer {
 	padding: 0 10px 0 20px;
 	border-top:1px solid #CCCCCC;
-} 
+}
 #footer p {
 	margin: 0;
 	padding: 30px 0;
@@ -151,9 +152,9 @@ h2, h3 {
 	padding:17px 0;
 	height:18px;
 }
-#navcontainer ul li { 
+#navcontainer ul li {
 	display: inline;
-	float:left; 
+	float:left;
 }
 #navcontainer ul li a {
 	text-decoration: none;
